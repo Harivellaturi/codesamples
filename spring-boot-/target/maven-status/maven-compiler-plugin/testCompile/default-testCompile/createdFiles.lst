@@ -1,0 +1,3 @@
+com\github\harivellaturi\customdatasource\SampleJpaApplicationTest.class
+com\github\harivellaturi\customdatasource\repository\NoteRepositoryIntegrationTest.class
+com\github\harivellaturi\customdatasource\repository\TagRepositoryIntegrationTest.class
