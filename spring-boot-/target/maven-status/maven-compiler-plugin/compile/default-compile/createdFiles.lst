@@ -1,0 +1,6 @@
+com\github\harivellaturi\customdatasource\repository\NoteRepository.class
+com\github\harivellaturi\customdatasource\Application.class
+com\github\harivellaturi\customdatasource\domain\Note.class
+com\github\harivellaturi\customdatasource\repository\TagRepository.class
+com\github\harivellaturi\customdatasource\web\IndexController.class
+com\github\harivellaturi\customdatasource\domain\Tag.class
